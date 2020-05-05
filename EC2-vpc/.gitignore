@@ -1,0 +1,6 @@
+mykey
+*.pub
+*.tfvars
+*.tfstate
+*.tfstate.backup
+
